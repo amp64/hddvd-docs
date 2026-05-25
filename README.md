@@ -9,5 +9,7 @@ Here are the sources in this repo so far:
 [Misc](/misc) - user created documentation.
 
 ## External Sources
-[HD DVD Advanced Content](https://en.wikipedia.org/wiki/Advanced_Content) The Wikipedia page on Advanced Content, which is the name for the interactive features of HD DVD,
+[HD DVD Advanced Content](https://en.wikipedia.org/wiki/Advanced_Content) - The Wikipedia page on Advanced Content, which is the name for the interactive features of HD DVD,
 also know as HDi (and iHD on occasion).
+
+[Programming HD-DVD and Blu-ray Disc : the HD Cookbook by Michael Zink](https://archive.org/details/programminghddvd0000zink/page/n147/mode/2up) - via the Internet Archive. (Ignore that Blu stuff).

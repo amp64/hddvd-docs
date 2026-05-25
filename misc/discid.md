@@ -5,6 +5,8 @@ Every HD DVD disc contains a file called `DISCID.DAT` in the `ADV_OBJ` directory
 to identify the disc and determine that it is a valid HD DVD disc.
 
 The format described here has been reverse engineered by using the `CreateDISCID` tool from Jumpstart, which can read and create DISCID files, as well as the inspection of files on actual HD DVDs.
+The actual definition of the format is in section 6.6 of the HD DVD Specification.
+
 The format of the DISCID file is as follows:
 
 - "HDDVD-V_CONF"
@@ -15,4 +17,4 @@ The format of the DISCID file is as follows:
 
 The file is padded to 128 bytes. 
 
-The endian-ness of the GUIDs is left as an exercise to the reader.
+**Note: the guids are all in big-endian format.**
