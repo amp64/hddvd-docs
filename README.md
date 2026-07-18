@@ -4,6 +4,8 @@ This is a collection of technical documentation for HD DVD, which is a bit trick
 ## Sources
 Here are the sources in this repo so far:
 
+[HD DVD Specifications](/specs.md) - the official HD DVD specifications.
+
 [Jumpstart](/jumpstart) - developer tools released by Microsoft, recovered from the Internet Archive.
 
 [Misc](/misc) - user created documentation.
